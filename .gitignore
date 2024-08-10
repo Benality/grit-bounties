@@ -39,6 +39,7 @@ vendor/
 build/
 dist/
 out/
+tests/
 
 # Ignore package files (if using package managers)
 yarn.lock
