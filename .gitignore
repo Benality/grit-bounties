@@ -1,0 +1,52 @@
+# Ignore compiled Lua files
+*.luac
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore editor and IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignore logs and debugging files
+logs/
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore backup files
+*~
+*.bak
+
+# Ignore specific directories
+node_modules/
+vendor/
+
+# Ignore database files (if using SQLite or similar for local testing)
+*.sqlite
+*.db
+
+# Ignore environment configuration files
+.env
+.env.local
+
+# Ignore build directories
+build/
+dist/
+out/
+
+# Ignore package files (if using package managers)
+yarn.lock
+package-lock.json
+
+# Ignore generated documentation
+docs/
+
+# Ignore cache and temporary build files
+.cache/
+.tmp/
