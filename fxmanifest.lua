@@ -27,4 +27,4 @@ dependency 'vorp_core'
 
 -- ui_page 'ui/index.html'
 
-version '0.2.0'
+version '0.1.0'
